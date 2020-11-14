@@ -23,18 +23,11 @@ all’utente.
 Definito il codice del sistema, bisognerà implementare una semplice simulazione che:
 1) il sistema viene inizializzato con alcuni utenti un impiegato e dei vini;
 2) un utente UX si registra e fa l’acquisto di alcune bottiglie di un certo vino UX;
-2) un utente UY si registra e fa l’acquisto di tutte le bottiglie di un certo vino UY;
-3) un utente UZ si registra e vuole fare l’acquisto di alcune bottiglie del vino UY non più disponibile
+3) un utente UY si registra e fa l’acquisto di tutte le bottiglie di un certo vino UY;
+4) un utente UZ si registra e vuole fare l’acquisto di alcune bottiglie del vino UY non più disponibile
 e chiede di ricevere una notifica quando il vino UY sarà di nuovo disponibile;
-4) l’impiegato aggiunge un certo numero di bottiglie del vino UY e il sistema notifica l’utente UZ
+5) l’impiegato aggiunge un certo numero di bottiglie del vino UY e il sistema notifica l’utente UZ
 della nuova disponibilità del vino.
 Ovviamente, l’avanzamento corretto della simulazione dovranno essere descritte tramite semplici
 operazione di scrittura su console.
-Il codice dovrà essere formattato con un unico stile di codifica e commentato usando javadoc. I
-commenti e gli elementi del codice dovranno essere preferibilmente scritti in lingua inglese.
-I Il sistema dovrà essere consegnato tramite un sito di condivisione (e.g., Dropbox e OneDrive). La
-consegna dovrà comprendere: un file contenente il nome degli autori dell’assegnamento, le
-immagini dei diagrammi realizzati e il codice sorgente.
-Il docente alla sua ricezione invierà una risposta di ricezione. Il sistema dovrà essere consegnato non
-più tardi di una settimana dall’ultimo laboratorio riguardante l’assegnamento (i.e., in base alla
-difficoltà, un assegnamento potrà coinvolgere più di una lezione in laboratorio).
+
