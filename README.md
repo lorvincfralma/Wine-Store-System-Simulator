@@ -1,5 +1,6 @@
 # Wine-Store-System-Simulator
-Java-Project
+
+Assignement 2 Software Engineering UniPR
 
 L’obiettivo è definire i diagrammi UML dei casi di uso e delle classi, che documentano un sistema
 software per la vendita online di bottiglie di vino, e implementare il sistema in Java, utilizzando in
